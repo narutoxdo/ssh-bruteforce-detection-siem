@@ -25,5 +25,5 @@ Este projeto documenta a implementação de um ambiente de monitoramento (SIEM) 
 <img width="1890" height="625" alt="2" src="https://github.com/user-attachments/assets/6dbab9bf-2e53-4354-b965-da3278e4c4dd" />
 
 
-## 🧠 Desafios Superados
+## Nota final: 
 Durante o laboratório, realizei a correção de IDs de Data Views no Kibana e ajustei o limite de conexões do serviço SSH para suportar o volume de logs gerado para o teste, pois alguns ataques mais fortes conseguiram derrubar o limite do sistema atual, um DDOS acidental.

@@ -2,8 +2,6 @@
 
 Este projeto documenta a implementação de um ambiente de monitoramento (SIEM) para detectar ataques de força bruta ao serviço SSH, utilizando a **Elastic Stack** e ferramentas de **Red Team**.
 
-## 👤 Autor
-**Ronan Bruno (narutoxdo)**
 
 ## Tecnologias e Ferramentas
 * **Kali Linux**: OS Base.
